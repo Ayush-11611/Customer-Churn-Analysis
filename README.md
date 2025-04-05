@@ -1,4 +1,4 @@
-📊 **CUSTOMER CHURN ANALYSIS – EDA**
+# 📊 **CUSTOMER CHURN ANALYSIS – EDA**
 
 This project performs Exploratory Data Analysis (EDA) on a customer churn dataset to uncover insights and trends related to customer retention. The analysis includes data cleaning, visualization, and statistical exploration to identify key factors affecting churn.
 
